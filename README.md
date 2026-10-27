@@ -1,4 +1,4 @@
-# QA Intern Project: Playwright Test Automation (JavaScript)
+# Playwright Test Automation (JavaScript)
 
 A small, beginner-friendly project that automatically tests a practice website and a practice API.
 
